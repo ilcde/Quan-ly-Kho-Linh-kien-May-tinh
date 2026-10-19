@@ -1,0 +1,8 @@
+build/
+dist/
+*.zip
+tools/jdbc/
+tools/*.zip
+config.properties
+*.log
+docs/qa/
